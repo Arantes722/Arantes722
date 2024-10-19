@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil GitHub! 👨‍💻
 
-Sou João Arantes, estudante de Engenharia de Sistemas Informáticos, apaixonado pelo desenvolvimento de software. Com experiência em várias linguagens de programação e ferramentas de automação, o meu objetivo é criar soluções escaláveis e de alta performance. Embora tenha competências em redes e segurança informática, o meu foco principal é o desenvolvimento e a programação.
+O meu nome é João Arantes, estudante de Engenharia de Sistemas Informáticos, apaixonado pelo desenvolvimento de software. Com experiência em várias linguagens de programação e ferramentas de automação, o meu objetivo é criar soluções escaláveis e de alta performance. Embora tenha competências em redes e segurança informática, o meu foco principal é o desenvolvimento e a programação.
 
 ## 🚀 Competências Técnicas
 
@@ -8,10 +8,15 @@ Sou João Arantes, estudante de Engenharia de Sistemas Informáticos, apaixonado
 - **Python**: Desenvolvimento de aplicações backend, automação de tarefas e scripts eficientes para várias necessidades, desde análise de dados até integração com APIs.
 - **JavaScript**: Full-stack development utilizando Node.js no backend e React no frontend, criando aplicações web modernas e dinâmicas.
 - **C++**: Programação de baixo nível para otimização de desempenho e desenvolvimento de aplicações com alto controlo sobre recursos.
+- **Kotlin**: Desenvolvimento de aplicações para Android, com ênfase na criação de interfaces de utilizador intuitivas e eficientes.
+- **HTML**: Criação de estruturas de páginas web, focando na acessibilidade e na semântica para melhorar a experiência do utilizador.
+- **SQL**: Linguagem utilizada para gestão e manipulação de bases de dados relacionais.
 
 ### Ferramentas e Tecnologias
-- **Docker**: Criação e gestão de ambientes de desenvolvimento isolados e consistentes, garantindo que as aplicações funcionem de maneira uniforme em diferentes sistemas.
-- **Jenkins**: Automação de pipelines CI/CD para garantir integração contínua e entrega rápida e eficiente de software.
+- **Visual Studio Code**: IDE versátil utilizada para desenvolvimento em várias linguagens.
+- **Angular**: Framework para construção de aplicações web dinâmicas e escaláveis.
+- **Android Studio**: IDE oficial para o desenvolvimento de aplicações Android.
+- **MySQL**: Sistema de gestão de bases de dados relacional para armazenamento e recuperação de dados.
 - **Git**: Gestão de código em equipas, utilizando workflows colaborativos para versionamento e manutenção de projetos de software.
 
 ## 📊 Estatísticas
