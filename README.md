@@ -1,9 +1,15 @@
-# Olá! 👋
+# Bem-vindo ao meu perfil GitHub! 👨‍💻
 
-Sou João Arantes, desenvolvedor full-stack com foco em redes e segurança informática.
+Sou estudante de Engenharia de Sistemas Informáticos e apaixonado por tecnologia!
 
-## Competências
-- **Linguagens**: Python, Java, C++
-- **Frameworks**: React, Node.js
+## 🚀 Linguagens e Tecnologias
+- **Linguagens**: Python, JavaScript, C++
+- **Ferramentas**: Docker, Jenkins, Git
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teuperfil)
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoarantes&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoarantes&layout=compact&theme=dark)
+
+## 🌟 Projetos em Destaque
+- [Projeto 1](https://github.com/joaoarantes/projeto1) - Ferramenta para gestão de redes
+- [Projeto 2](https://github.com/joaoarantes/projeto2) - Plataforma web para automação de tarefas
