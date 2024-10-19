@@ -29,5 +29,5 @@ O meu nome é João Arantes, estudante de Engenharia de Sistemas Informáticos, 
 
 ## 🌍 Vamos Conectar
 Estou sempre aberto a discussões sobre desenvolvimento de software, colaborações ou oportunidades de trabalho.  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/teuperfil) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-arantes-783647267/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:arantesjps@gmail.com)
