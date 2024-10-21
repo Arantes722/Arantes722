@@ -20,7 +20,7 @@ O meu nome é João Arantes, estudante de Engenharia de Sistemas Informáticos, 
 - **Git**: Gestão de código em equipas, utilizando workflows colaborativos para versionamento e manutenção de projetos de software.
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoarantes&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arantes722&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes722&layout=compact&theme=dark)
 
 ## 🌟 Projetos em Destaque
