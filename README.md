@@ -1,28 +1,37 @@
-# Bem-vindo ao meu perfil GitHub! 👨‍💻
+# João Arantes 👨‍💻
 
-O meu nome é João Arantes, estudante de Engenharia de Sistemas Informáticos, apaixonado pelo desenvolvimento de software. Tenho experiência em várias linguagens de programação e ferramentas de automação, com o objetivo de criar soluções escaláveis e de alta performance. Embora também possua competências em redes e segurança informática, o meu foco principal é o desenvolvimento e a programação.
+Olá! Sou o João Arantes, estudante de **Engenharia de Sistemas Informáticos** e um apaixonado por **desenvolvimento de software**. Tenho experiência com várias **linguagens de programação** e **ferramentas de automação**, com o objetivo de criar soluções escaláveis e eficientes. Foco-me principalmente no **desenvolvimento backend e frontend**, mas também tenho experiência em **segurança informática** e **redes**.
 
-## 🚀 Competências Técnicas
+## 🚀 **Competências Técnicas**
 
-### Linguagens de Programação
-- **JavaScript**: Desenvolvimento full-stack com Node.js no backend e React no frontend, criando aplicações web modernas e dinâmicas.
-- **C++**: Programação de baixo nível para otimização de desempenho e controle de recursos em aplicações exigentes.
-- **Kotlin**: Desenvolvimento de aplicações Android com foco em interfaces intuitivas e eficientes.
-- **HTML/CSS**: Criação de páginas web acessíveis e semânticas, garantindo uma experiência de utilizador otimizada.
-- **SQL**: Gestão e manipulação de bases de dados relacionais para armazenamento e recuperação de dados.
+### 🌐 **Linguagens de Programação**
+- **JavaScript**: Desenvolvimento full-stack utilizando **Node.js** (backend) e **React** (frontend).
+- **C++**: Programação de baixo nível e otimização de performance para aplicações exigentes.
+- **Kotlin**: Criação de aplicações **Android** com foco em UX/UI eficiente.
+- **HTML/CSS**: Desenvolvimento de páginas web acessíveis e modernas.
+- **SQL**: Gestão de bases de dados relacionais e consultas complexas.
 
-### Ferramentas e Tecnologias
+### 🛠️ **Ferramentas e Tecnologias**
 - **Visual Studio Code**: IDE versátil para desenvolvimento em várias linguagens.
-- **Android Studio**: IDE oficial para desenvolvimento Android.
-- **MySQL**: Sistema de gestão de bases de dados relacionais para armazenamento de dados.
-- **Git**: Gestão de versão de código e colaboração eficiente em projetos de software.
+- **MySQL**: Sistema de gestão de bases de dados relacionais.
+- **Git**: Gestão de código e colaboração em equipas de desenvolvimento.
+- **Android Studio**: IDE oficial para desenvolvimento de aplicações **Android**.
 
-## 📊 Estatísticas
+## 📊 **Estatísticas de GitHub**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arantes722&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes722&layout=compact&theme=dark&count_private=true)
+Aqui estão algumas das minhas estatísticas e as linguagens que mais utilizo:
 
-## 🌍 Vamos Conectar
-Estou sempre aberto a discussões sobre desenvolvimento de software, colaborações ou oportunidades de trabalho.  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-arantes-783647267/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:arantesjps@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arantes722&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes722&layout=compact&theme=radical)
+
+## 📬 **Vamos Conectar!**
+
+Estou sempre aberto a discussões sobre **desenvolvimento de software**, novas tecnologias, **colaborações** e **oportunidades de trabalho**.
+
+- **[LinkedIn](https://www.linkedin.com/in/joao-arantes-783647267/)**: Vamos conectar e trocar ideias!
+- **Email**: [arantesjps@gmail.com](mailto:arantesjps@gmail.com)
+
+
+
+**Obrigado por visitares o meu perfil! 🚀**
+
