@@ -21,13 +21,7 @@ Olá! Sou o João Arantes, estudante de **Engenharia de Sistemas Informáticos**
 
 Aqui estão algumas das minhas estatísticas e as linguagens que mais utilizo:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arantes722&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes722&layout=compact&theme=radical)
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arantes722&theme=github_dark)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arantes722&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Arantes722&theme=radical)
-![Repos Stats](https://github-readme-stats.vercel.app/api?username=Arantes722&count_private=true&theme=tokyonight)
 
 
 ## 📬 **Vamos Conectar!**
