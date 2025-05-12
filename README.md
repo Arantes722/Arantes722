@@ -20,14 +20,13 @@
 
 ## 📌 Projetos Recentes
 
-📁 **Gestor de Repositórios**  
-Sistema onde utilizadores podem criar repositórios, partilhar ficheiros e gerir permissões.
+📦 **ShareBox**  
+Repositório inteligente local para equipas partilharem ficheiros de forma segura dentro de empresas.  
+✔️ Permissões avançadas, envio por link/email, registo de logs e estrutura de grupos.
 
-🕒 **Bolsa de Horas**  
-Módulo de submissão, validação e gestão de horas para colaboradores e administradores.
-
-👤 **Painel de Utilizador/Admin**  
-Dashboard moderno com autenticação, edição de perfil, logs e controlo de acessos.
+🕒 **Gestão de Colaboradores**  
+Plataforma para gerir horas, faltas, presenças e documentação dos funcionários.  
+✔️ Sistema de aprovação, dashboard por tipo de utilizador e registo detalhado de atividades.
 
 ---
 
