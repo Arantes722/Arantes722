@@ -32,13 +32,10 @@ Plataforma para gerir horas, faltas, presenças e documentação dos funcionári
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arantes722&theme=github_dark)
+![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arantes722&theme=github_dark)
+![Commits por Dia](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arantes722&theme=github_dark&utcOffset=0)
 
-![João Arantes GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arantes722&show_icons=true&theme=github_dark&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arantes722&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
-</div>
 
 
 ---
