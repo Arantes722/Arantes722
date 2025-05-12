@@ -1,37 +1,47 @@
-# João Arantes 👨‍💻
+# 👨‍💻 João Arantes
 
-Olá! Sou o João Arantes, estudante de **Engenharia de Sistemas Informáticos** e um apaixonado por **desenvolvimento de software**. Tenho experiência com várias **linguagens de programação** e **ferramentas de automação**, com o objetivo de criar soluções escaláveis e eficientes. Foco-me principalmente no **desenvolvimento backend e frontend**, mas também tenho experiência em **segurança informática** e **redes**.
+🎓 Estudante de **Engenharia de Sistemas Informáticos**  
+🚀 Focado em **Desenvolvimento Web (Laravel + MySQL + Blade + PHP)**  
+🔒 Interesse também em **Segurança Informática** e **Redes**
 
-## 🚀 **Competências Técnicas**
+---
 
-### 🌐 **Linguagens de Programação**
-- **JavaScript**: Desenvolvimento full-stack utilizando **Node.js** (backend) e **React** (frontend).
-- **C++**: Programação de baixo nível e otimização de performance para aplicações exigentes.
-- **Kotlin**: Criação de aplicações **Android** com foco em UX/UI eficiente.
-- **HTML/CSS**: Desenvolvimento de páginas web acessíveis e modernas.
-- **SQL**: Gestão de bases de dados relacionais e consultas complexas.
+## 🛠️ Tech Stack
 
-### 🛠️ **Ferramentas e Tecnologias**
-- **Visual Studio Code**: IDE versátil para desenvolvimento em várias linguagens.
-- **MySQL**: Sistema de gestão de bases de dados relacionais.
-- **Git**: Gestão de código e colaboração em equipas de desenvolvimento.
-- **Android Studio**: IDE oficial para desenvolvimento de aplicações **Android**.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-black?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 **Estatísticas de GitHub**
+---
 
-Aqui estão algumas das minhas estatísticas e as linguagens que mais utilizo:
+## 📌 Projetos Recentes
+
+📁 **Gestor de Repositórios**  
+Sistema onde utilizadores podem criar repositórios, partilhar ficheiros e gerir permissões.
+
+🕒 **Bolsa de Horas**  
+Módulo de submissão, validação e gestão de horas para colaboradores e administradores.
+
+👤 **Painel de Utilizador/Admin**  
+Dashboard moderno com autenticação, edição de perfil, logs e controlo de acessos.
+
+---
+
+## 📊 GitHub Stats
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arantes722&theme=github_dark)
 
+---
 
-## 📬 **Vamos Conectar!**
+## 📬 Contacto
 
-Estou sempre aberto a discussões sobre **desenvolvimento de software**, novas tecnologias, **colaborações** e **oportunidades de trabalho**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-arantes-783647267/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arantesjps@gmail.com)
 
-- **[LinkedIn](https://www.linkedin.com/in/joao-arantes-783647267/)**: Vamos conectar e trocar ideias!
-- **Email**: [arantesjps@gmail.com](mailto:arantesjps@gmail.com)
+---
 
-
-
-**Obrigado por visitares o meu perfil! 🚀**
-
+**Obrigado pela visita!** 👋
