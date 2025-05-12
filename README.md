@@ -53,8 +53,6 @@ Plataforma para gerir horas, faltas, presenças e documentação dos funcionári
 ![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arantes722&theme=github_dark)
 ![Commits por Dia](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arantes722&theme=github_dark&utcOffset=0)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arantes722&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
 ---
 
 ## 📬 Contacto
