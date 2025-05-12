@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZzaTk1dmR6cGY3OWhkNnFxZ2JlcWp2N2l5dGtnZ3JlOXBpbjhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" alt="Programador animado" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczExY2ZjYjA5OXk2MnJpNDlhNWs4Mmw3aW95b3VqMjN6NGZtNmtweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Programador animado" width="600"/>
 </p>
+
 
 
 
