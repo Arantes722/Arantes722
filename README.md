@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/13HgwGsXF0aiGY)" alt="GIF sobre programação" width="600"/>
+  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/13HgwGsXF0aiGY)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZzaTk1dmR6cGY3OWhkNnFxZ2JlcWp2N2l5dGtnZ3JlOXBpbjhvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)" alt="GIF sobre programação" width="600"/>
 </p>
 
 
