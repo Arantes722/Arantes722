@@ -32,11 +32,8 @@ Plataforma para gerir horas, faltas, presenças e documentação dos funcionári
 
 ## 📊 GitHub Analytics
 
-![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arantes722&theme=github_dark)
-![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arantes722&theme=github_dark)
-![Commits por Dia](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arantes722&theme=github_dark&utcOffset=0)
+![Snake animation](https://github.com/Arantes722/Arantes722/blob/output/github-contribution-grid-snake.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arantes722&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
