@@ -48,9 +48,9 @@
 Repositório inteligente local para equipas partilharem ficheiros de forma segura dentro de empresas.  
 ✔️ Permissões avançadas, envio por link/email, registo de logs e estrutura de grupos.
 
-🕒 **Gestão de Colaboradores**  
-Plataforma para gerir horas, faltas, presenças e documentação dos funcionários.  
-✔️ Sistema de aprovação, dashboard por tipo de utilizador e registo detalhado de atividades.
+🗂️ **Gestão Documental**  
+Plataforma digital para a gestão documental dos colaboradores, incluindo notas de falta, justificações, gestão de horas da bolsa de horas e preenchimento de documentos sem recurso a papel.  
+✔️ Sistema de aprovação, dashboards personalizados por tipo de utilizador e registo detalhado de atividades.
 
 🎓 **InternTrack**  
 Sistema completo para gestão de estagiários, acompanhamento de presenças, validação de documentos e geração de relatórios personalizados.  
