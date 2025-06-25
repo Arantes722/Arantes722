@@ -52,6 +52,10 @@ Repositório inteligente local para equipas partilharem ficheiros de forma segur
 Plataforma para gerir horas, faltas, presenças e documentação dos funcionários.  
 ✔️ Sistema de aprovação, dashboard por tipo de utilizador e registo detalhado de atividades.
 
+🎓 **InternTrack**  
+Sistema completo para gestão de estagiários, acompanhamento de presenças, validação de documentos e geração de relatórios personalizados.  
+✔️ Perfis diferenciados (estagiário, administrador), aprovação automática e visualização de progresso do estágio.
+
 ---
 
 ## 📊 GitHub Analytics
