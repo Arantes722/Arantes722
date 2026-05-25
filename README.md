@@ -51,7 +51,7 @@
 
 ## 📌 Projetos Recentes
 
-🚀 **JobFlow — AI Career Tracker (Em desenvolvimento)**  
+🚀 **Applytic — AI Career Tracker (Em desenvolvimento)**  
 Plataforma SaaS para gestão de candidaturas de emprego, permitindo aos utilizadores organizar e acompanhar todo o processo de procura de emprego num único dashboard.
 
 ✔️ Autenticação de utilizadores (registo e login)  
